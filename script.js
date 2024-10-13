@@ -60,7 +60,7 @@ function onNavItemClick(id) {
     currentSelectedNav.classList.add('active');
 }
 
-// Search button function
+// Search button
 const searchButton = document.getElementById('search-button');
 const searchText = document.getElementById('search-text');
 
